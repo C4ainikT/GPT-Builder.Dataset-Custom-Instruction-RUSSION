@@ -40,7 +40,7 @@ GPT-builder - инструмент для создания CSV датасето�
 
 4. Готово!
 
-[https://chat.openai.com/share/fc2ae19f-787c-4ee8-81f0-35b508a84298]("Пример_правильно_работы_GPT-builder.")
+[https://chat.openai.com/share/fc2ae19f-787c-4ee8-81f0-35b508a84298](Пример_правильно_работы_GPT-builder.)
 
 ![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/218b9c01-c40d-432f-b428-1f7613eaa430)
 
