@@ -24,6 +24,23 @@ GPT-builder - инструмент для создания CSV датасето�
 Процесс повторяется для добавления дополнительных запросов и ответов. Инструкции и предупреждения также предоставляются в случае изменения темы разговора.
 
 ## Как использовать?
-1. тест
+1. Нажмите на свой аккаунт;
 
 ![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/924b02e5-e45e-4c30-ae1c-fa7467c3fbf7)
+
+2. Нажмите на ***Custom instructions***;
+
+![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/5fa8e2d4-c225-45e0-bb21-889951389039)
+
+3. Вы увидите окно, Напишите мой репозиторий.
+
+![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/dc0faacf-217d-41a6-b8da-7b4a2ca98663)
+
+![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/00ccd410-d6c6-4c88-83e6-dfe13a410b19)
+
+4. Готово!
+
+[https://chat.openai.com/share/fc2ae19f-787c-4ee8-81f0-35b508a84298]("Пример_правильно_работы_GPT-builder.")
+
+![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/218b9c01-c40d-432f-b428-1f7613eaa430)
+
