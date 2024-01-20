@@ -26,7 +26,8 @@ GPT-builder - инструмент для создания CSV датасето�
 ## Как использовать?
 1. Нажмите на свой аккаунт;
 
-![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/924b02e5-e45e-4c30-ae1c-fa7467c3fbf7)
+![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/7488c9f6-e8ef-4bf5-938e-d7fffbdc04bf)
+
 
 2. Нажмите на ***Custom instructions***;
 
