@@ -23,7 +23,9 @@ GPT-builder - инструмент для создания CSV датасето�
 
 ## Как использовать?
 
-1. На сайте (https://chat.openai.com/)[openai]
+1. На сайте [https://chat.openai.com](ChatOpenAI), Нажмите на Свой аккаунт.
+   ![image](https://github.com/C4ainikT/GPT-Builder.Dataset-Custom-Instruction-RUSSION/assets/129612159/72157d3e-766a-442e-ba0c-4fa546460e65)
+2.
 
 ## Зависимости
 
